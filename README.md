@@ -1,5 +1,5 @@
 ## Laravel Blog Project
-- [Post](#posts/index)
+- [Posts](#posts/index)
 - [Individual Post](#user/posts/index)
 
 ## Installation
