@@ -6,14 +6,13 @@
 
 ```
 - git clone https://github.com/Yoonmie/laracasts_blog.git
-- cd laravel_blog
+- cd laracasts_blog
 - composer install
 - cp .env.example .env
 - create database
 - php artisan key:generate
 - php artisan migrate
 - php artisan serve
-
 ```
 
 ## Project Flow 
